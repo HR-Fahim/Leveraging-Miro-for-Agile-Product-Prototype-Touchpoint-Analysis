@@ -1,5 +1,4 @@
-# Leveraging Miro for Agile Product Prototype Touchpoint Analysis Project
-
+# Leveraging Miro for Agile Product Prototype Touchpoint Analysis
 ## Overview
 The Agile Project Prototype Touchpoint Analysis successfully concluded, focusing on enhancing the customer experience and delivering maximum value through analyzing an agile project prototype using touchpoint elements.
 
