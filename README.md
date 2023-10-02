@@ -7,6 +7,7 @@ The Agile Project Prototype Touchpoint Analysis successfully concluded, focusing
 The primary objective of this project was to conduct an in-depth analysis of an agile project prototype, examining its touchpoint elements to identify areas for improvement in customer experience.
 
 ## Preview
+To check the whiteboard, click [here](https://miro.com/app/board/uXjVNf0cT8Y=/?share_link_id=398093909755).
 
 ![Preview](https://github.com/HR-Fahim/Leveraging-Miro-for-Agile-Product-Prototype-Touchpoint-Analysis-Project/assets/66734379/bf941e93-ccfb-44e1-8a46-259f5c2c1015)
 
